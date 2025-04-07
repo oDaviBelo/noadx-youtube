@@ -1,0 +1,8 @@
+main{
+    width: 40rem;
+    height: 40vh;
+}
+#handleArea{
+    display: flex;
+    flex-direction: column;
+}
